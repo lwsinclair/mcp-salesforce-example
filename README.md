@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lciesielski-mcp-salesforce-example-badge.png)](https://mseep.ai/app/lciesielski-mcp-salesforce-example)
+
 # Salesforce MCP Sample Integration
 
 This project provides a basic example of integrating with Salesforce using the Model Context Protocol (MCP). It allows interaction with Salesforce features like sending emails and deploying Apex code through MCP tools.
